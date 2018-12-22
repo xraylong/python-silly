@@ -1,9 +1,10 @@
 #f/usr/bin/python3
 
 def main(msg):
-    // added another (third) comment
-    // Adding the second comment to this file
-    // print one more
+    // no longer need comments here
     print(msg)
+
+def secondary():
+    print("New function")
 
 main ("What up home slice")
