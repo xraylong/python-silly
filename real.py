@@ -3,4 +3,4 @@
 def main(msg):
     print(msg)
 
-main ("Hello People")
+main ("What up home slice")
